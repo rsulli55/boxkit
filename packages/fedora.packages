@@ -10,6 +10,7 @@ ImageMagick
 jq
 just
 nmap
+opam
 pandoc
 python3-bpython
 qpdf
